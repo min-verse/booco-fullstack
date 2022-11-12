@@ -20,6 +20,18 @@ Join the <strong>BOOCO</strong> community today! Let's keep reading.
 
 [<strong><em>Integrated APIs:</em></strong> Google Books, OpenLibrary]
 
+```
+Before use, please run:
+
+$ bundle install
+
+$ rails db:create db:migrate db:seed
+
+And run the following in the client directory:
+
+$ npm install
+```
+
 ## BOOCO Personalized Reader Homepage
 
 <p align="center">
