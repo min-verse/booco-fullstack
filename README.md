@@ -1,8 +1,14 @@
 # BOOCO - The Premier Social Networking App for Readers
 
 <p align="center">
+    <img width=20% src="./public/booco-images/BOOCO_logo.png" />
+</p>
+
+<p align="center">
     <img width=75% src="./public/booco-images/bocco-landing.png" />
 </p>
+
+[<strong><em>Dev Notes:</em></strong> <em>Logo designed and illustrated by me</em>]
 
 <strong>BOOCO</strong> is the best place for an integrated social media experience for all readers. The <strong>BOOCO</strong> platform boasts an extensive book database, creating a large library of content for our users to explore.
 
@@ -39,6 +45,14 @@ $ npm install
 </p>
 
 Entering you <strong>BOOCO</strong> homepage means you'll be greeted with all of you tracked books as well as any updates on their statuses and your progress through your "reading" status books.
+
+You will also have your own personal chosen avatar, selected from any of these nine icons:
+
+<p align="center">
+    <img width=75% src="./public/booco-images/booco-profile-pictures.png" />
+</p>
+
+[<strong><em>Dev Notes:</em></strong> <em>For reference, these icons, along with the app logo, were designed and illustrated by me, min-verse.</em>]
 
 You will be notified if you have pending friend requests and you'll see your friends displayed to the right of the reading card gallery.
 
